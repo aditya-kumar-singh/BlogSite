@@ -1,0 +1,28 @@
+i.icon{
+    font-size: 2em;
+}
+.container.main{
+    margin-top: 7.0em;
+}
+
+#delete{
+    display: inline;
+}
+
+/*body {
+    background: Magenta;
+}
+*/
+
+/* For putting button on top */
+
+/*.ui.orange.basic.button{
+    position: absolute;
+    top: 2%;
+    right: 100px;
+}
+.ui.yellow.basic.button{
+    position: absolute;
+    top: 2%;
+    right: 10px;
+}*/
